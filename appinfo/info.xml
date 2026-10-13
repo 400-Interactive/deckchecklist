@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+	<id>deckchecklist</id>
+	<name>Deck Checklists</name>
+	<summary>Checklists dans les cartes Deck</summary>
+	<description><![CDATA[Ajoute des checklists de type Trello aux cartes Nextcloud Deck : plusieurs listes par carte, cases à cocher, progression et badge sur le tableau.]]></description>
+	<version>1.1.17</version>
+	<licence>agpl</licence>
+	<author>400interactive</author>
+	<namespace>DeckChecklist</namespace>
+	<documentation>
+		<user>https://github.com/400-Interactive/deckchecklist#readme</user>
+		<developer>https://github.com/400-Interactive/deckchecklist#readme</developer>
+	</documentation>
+	<website>https://github.com/400-Interactive/deckchecklist</website>
+	<repository>https://github.com/400-Interactive/deckchecklist</repository>
+	<category>organization</category>
+	<dependencies>
+		<nextcloud min-version="35" max-version="35"/>
+	</dependencies>
+</info>
