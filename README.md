@@ -24,6 +24,12 @@ There is no entry in the Nextcloud app menu. Open a Deck board and a card. The c
 
 ## On a card
 
+![On a Card](/img/deckchecklist01.png)
+
+---------------------------------------
+
+![On a Card](/img/deckchecklist03.png)
+
 Each checklist has a title, a progress bar with a completion percentage, and its items.
 
 - Click a title or an item to rename it. Press Enter to save, Escape to cancel.
@@ -41,6 +47,7 @@ Converting an item creates a new card on the same list, copies the title (trimme
 The Deck description has its own small chevron, to the right of the word “Description”. It starts expanded. If the text is taller than the preview, **Show more** / **Show less** appears under it. Collapsing the description hides that button.
 
 ## On the board
+![On the board](/img/deckchecklist02.png)
 
 Cards that have checklist items show a badge in the card footer, using Deck’s checkbox icon and a `checked/total` count. The count covers every checklist on the card.
 
