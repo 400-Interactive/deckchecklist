@@ -1,6 +1,6 @@
-# Deck Checklists
+# Deck Trello-style Checklists
 
-Deck Checklists adds Trello-style checklists to [Nextcloud Deck](https://github.com/nextcloud/deck) cards. Deck itself is not patched. The checklists live in this app and are shown inside the Deck card sidebar and as a badge on the board.
+Deck Trello-style Checklists adds checklists to [Nextcloud Deck](https://github.com/nextcloud/deck) cards. Deck itself is not patched. The checklists live in this app and are shown inside the Deck card sidebar and as a badge on the board.
 
 A card can hold several checklists. Each checklist is a titled list of items you can check off, assign, date, reorder, and turn into its own Deck card.
 

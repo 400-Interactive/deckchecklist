@@ -30,7 +30,7 @@
 		"Show less": "Afficher moins",
 		"Collapse description": "Replier la description",
 		"Expand description": "Déplier la description",
-		"Deck Checklists": "Checklists Deck",
+		"Deck Trello-style Checklists": "Deck Trello-style Checklists",
 		"%1$s assigned the checklist item \"%2$s\" on the card \"%3$s\" to you.": "%1$s vous a assigné l'élément de checklist « %2$s » sur la carte « %3$s ».",
 		"{user} assigned the checklist item {item} on the card {card} to you.": "{user} vous a assigné l'élément de checklist {item} sur la carte {card}."
 	},

@@ -29,7 +29,7 @@ class Notifier implements INotifier {
 	}
 
 	public function getName(): string {
-		return $this->l10nFactory->get(Application::APP_ID)->t('Deck Checklists');
+		return $this->l10nFactory->get(Application::APP_ID)->t('Deck Trello-style Checklists');
 	}
 
 	public function prepare(INotification $notification, string $languageCode): INotification {

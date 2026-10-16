@@ -30,7 +30,7 @@
 		"Show less": "Show less",
 		"Collapse description": "Collapse description",
 		"Expand description": "Expand description",
-		"Deck Checklists": "Deck Checklists",
+		"Deck Trello-style Checklists": "Deck Trello-style Checklists",
 		"%1$s assigned the checklist item \"%2$s\" on the card \"%3$s\" to you.": "%1$s assigned the checklist item \"%2$s\" on the card \"%3$s\" to you.",
 		"{user} assigned the checklist item {item} on the card {card} to you.": "{user} assigned the checklist item {item} on the card {card} to you."
 	},
