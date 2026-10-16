@@ -23,11 +23,6 @@ sudo -u www-data php occ app:enable deckchecklist
 There is no entry in the Nextcloud app menu. Open a Deck board and a card. The checklists appear in the Details tab, under the description.
 
 ## On a card
-
-![On a Card](/img/deckchecklist01.png)
-
----------------------------------------
-
 ![On a Card](/img/deckchecklist03.png)
 
 Each checklist has a title, a progress bar with a completion percentage, and its items.
